@@ -275,7 +275,9 @@ languages:
         enable: false
         # title: "Custom Name"
         content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-        email: gurusabarisha@gmail.com
+        email: baptiste.pontanier@laposte.net
+        phone: "+33642123867"
+        location: "74000, Annecy, France"
         btnName: Mail me
         # formspree:
         #   enable: true # `contact.email` value will be ignored
@@ -448,7 +450,7 @@ params:
     content: |
       J'ai eu différentes casquettes lors de mes expériences professionnelles, de l'administration systèmes et réseaux à l'ingénieurie logicielle.
 
-      Mes expériences les plus récentes sont néanmoins orientées vers l'ingénieur logicielle.
+      Mes expériences les plus récentes sont néanmoins orientées vers l'ingénieurie logicielle.
     skills:
       enable: true
       title: "Liste non exhaustive de technologies que j'utilise:"
@@ -598,7 +600,9 @@ params:
     enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: baptiste.pontanier@laposte.net
+    phone: "0642123867"
+    location: "74000, Annecy"
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
